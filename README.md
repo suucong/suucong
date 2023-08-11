@@ -22,7 +22,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://velog.io/@suucong> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@suucong"> </a>
+    <div align= "center"> <a href=https://suucong.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://suucong.tistory.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
