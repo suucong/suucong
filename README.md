@@ -8,7 +8,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
-            <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I'm majoring in Software Convergence! </div>
+            <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Tech stacks I have used more than once </div>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
