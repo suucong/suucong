@@ -23,9 +23,6 @@
           </div>
     </div>
     <div align= "center">
-        <h2 align="center">Visitor's count :eyes:</h2>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{suucong}/count.svg" alt="suucong :: Visitor's Count" /></p>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://suucong.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://suucong.tistory.com"> </a>
           </div>  <br> 
