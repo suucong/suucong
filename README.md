@@ -5,7 +5,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there!👋🏻 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I'm majoring in Software Convergence! 
         <br>I'm a developer striving to commit consistently every day.</li></div> 
-        <img src="https://komarev.com/ghpvc/?username=suucong&color=blueviolet&style=flat-square&label=Profile+Views" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
